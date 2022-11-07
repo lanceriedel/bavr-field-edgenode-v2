@@ -1,0 +1,5 @@
+loguru==0.6.0
+bell-avr-libraries[mqtt]==0.1.9
+adafruit-circuitpython-lis3dh
+adafruit-circuitpython-amg88xx==1.2.15
+adafruit-circuitpython-tcs34725

@@ -1,0 +1,8 @@
+services:
+  edgenode:
+    image: flyingrlabs/edgenode:latest
+    privileged: true
+    volumes:
+       - type: bind
+         source: $HOST/etc
+         target: /hostetc
